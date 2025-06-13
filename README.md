@@ -1,6 +1,7 @@
 # Podstawy programowania w C#
 
 #CEL
+
 1. Utwórz własny branch dla przydzielonego zadania.
 2. Wprowadź zmiany.
 3. Stwórz Pull Request i powiąż z odpowiednim Issue.
@@ -13,6 +14,4 @@
 5: Podstrona - conditionals.html
 6: Podstrona -loops.html
 7: Przykłady kodu - examples.html
-8: Stylizacja i nawigacja  - style.css
-9. Modyfikacja podstrony - variables.html
-10. Modyfikacja -  style.css
+8: Stylizacja i nawigacja - style.css 9. Modyfikacja podstrony - variables.html 10. Modyfikacja - style.css`
